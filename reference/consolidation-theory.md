@@ -151,9 +151,9 @@ All items use the **average exchange rate for the year** (or specific period rat
 
 This is the part that gets confusing. Here's the systematic method:
 
-### Method A: Decomposition from retained earnings (cleanest for Temporal; use with care under Current Rate)
+### Method A: Decomposition from retained earnings (Temporal method)
 
-> Under the **Current Rate** method, the FX effect flows through the cumulative **Exchange Adjustment** on the balance sheet, not through income-statement RE. The decomposition below still works algebraically, but be aware that the "total result" for Current Rate includes the exchange adjustment change, not just RE change.
+Use this method when the exam asks for the **Temporal method** exchange gain/loss. Under Temporal, retained earnings is the balance-sheet plug, and the FX gain/loss appears on the income statement.
 
 **Formula:**
 $$\text{Operational result} + \text{Forex gain/loss} = \text{Total result}$$
@@ -168,6 +168,15 @@ Where:
 2. Calculate operational result (sum of converted income statement before the FX line)
 3. Forex gain/loss = Δ RE − Operational result
 4. **Label it explicitly as "gain" (positive) or "loss" (negative)**
+
+### Current Rate method: do NOT use retained earnings as the plug
+
+Under the **Current Rate** method, retained earnings uses the historical accumulated/average rate. The **Exchange Adjustment** line is the plug that balances the balance sheet.
+
+For the exam:
+- Income statement exchange gain/loss = **N/A**
+- Balance-sheet exchange adjustment = plug figure
+- If asked for the current-year exchange effect specifically, you would need the change in the cumulative exchange adjustment. The class exercises usually ask you to report the balance-sheet exchange adjustment, not a separate income-statement gain/loss.
 
 ### Worked example (UK Pounds, Temporal Method)
 
@@ -221,8 +230,8 @@ The exam paper will look like the UK Pounds template you've practiced with. Sugg
 7. **Plug** to balance
 8. **Fill in the income statement** row by row
 9. **Sum operational result**
-10. **Compute exchange rate gain/loss** using Method A above
-11. **Explicitly label "gain" or "loss"**
+10. **If Temporal:** compute exchange rate gain/loss using Method A above and explicitly label "gain" or "loss"
+11. **If Current Rate:** report the balance-sheet exchange adjustment plug; income-statement exchange gain/loss is N/A
 12. **Double-check totals balance**
 
 ---
