@@ -1,6 +1,6 @@
 # Exercise: Japanese Yen Subsidiary of US Multinational
 
-> **Source:** Lecture 27. Original papers: [`papers/JAPANESE SUBSIDIARY OF US MULTINATIONAL CORP.md`](../../papers/JAPANESE%20SUBSIDIARY%20OF%20US%20MULTINATIONAL%20CORP.md) (temporal only) and [`papers/JAPANESE SUBSIDIARY OF US MULTINATIONAL CORP 2.md`](../../papers/JAPANESE%20SUBSIDIARY%20OF%20US%20MULTINATIONAL%20CORP%202.md) (both methods). This canonical version uses the corrected version-2 values.
+> **Source:** Lecture 27. Original papers: *JAPANESE SUBSIDIARY OF US MULTINATIONAL CORP* (temporal only) and *JAPANESE SUBSIDIARY OF US MULTINATIONAL CORP 2* (both methods). This canonical version uses the corrected version-2 values.
 
 **Scenario:** A Japanese subsidiary of a US multinational, converting from JPY to USD under both methods.
 

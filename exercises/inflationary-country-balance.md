@@ -1,6 +1,6 @@
 # Exercise: Subsidiary of US Multinational in an Inflationary Country
 
-> **Source:** Lecture 28 (in-class practice exercise — represents the format you'll see on the exam). Original paper: [`papers/SUBSIDIARY OF US MULTINATIONAL IN AN INFLATIONARY COUNTR.md`](../../papers/SUBSIDIARY%20OF%20US%20MULTINATIONAL%20IN%20AN%20INFLATIONARY%20COUNTR.md).
+> **Source:** Lecture 28 (in-class practice exercise — represents the format you'll see on the exam). Original paper: *SUBSIDIARY OF US MULTINATIONAL IN AN INFLATIONARY COUNTRY*.
 
 **Scenario:** US multinational with a subsidiary in an inflationary country (the local currency is depreciating fast → the company essentially operates in USD-equivalents).
 

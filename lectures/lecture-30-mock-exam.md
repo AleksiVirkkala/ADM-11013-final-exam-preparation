@@ -1,16 +1,16 @@
 # Lecture 30 — Mock Exam Walkthrough
 
-> **Sources:** [`notes/ADM-11013 Lecture 30.md`](../../notes/ADM-11013%20Lecture%2030.md), [`transcripts/ADM-11013 Lecture 30.md`](../../transcripts/ADM-11013%20Lecture%2030.md), paper [`PRACTICE QUESTIONS FOR FINAL EXAM—INTERNATIONAL BUSINESS.md`](../../papers/PRACTICE%20QUESTIONS%20FOR%20FINAL%20EXAM%E2%80%94INTERNATIONAL%20BUSINESS.md).
+> **Sources:** Lecture 30 notes and transcript, paper: *PRACTICE QUESTIONS FOR FINAL EXAM—INTERNATIONAL BUSINESS*.
 
 > **Exam relevance: VERY HIGH.** This is the practice exam the teacher walked through in class. Expect SOME (but not all) of the actual exam questions to be similar to these.
 
-> **Important caveat:** The teacher said *"these are not guaranteed to be exam questions but still useful data"* — treat as study material, not a leaked exam.
+> **Important caveat:** Treat these as practice material, not a leaked exam. The teacher walked through them in class as study questions, not as confirmed exam questions.
 
 ---
 
 ## What teacher confirmed about the final exam structure
 
-- 16 points for **consolidation** (revised in Lecture 31 to 21 points)
+- **Consolidation** — originally announced as 16 points in Lecture 30, then **revised upward to 21 points** in Lecture 31. Use 21 for planning. This is the single highest-value question on the exam.
 - Indicate clearly whether result is **gain or loss**
 - Format: 17 multiple choice (likely from book) + 7 essays (longer questions)
 - Multiple choice from book chapters 2, 10, 11, 20
@@ -314,7 +314,7 @@ The teacher said in Lecture 31 you should also know:
 
 ## See also
 
-- [Practice questions paper (full)](../../papers/PRACTICE%20QUESTIONS%20FOR%20FINAL%20EXAM%E2%80%94INTERNATIONAL%20BUSINESS.md) — the original handout
+- Practice questions paper: *PRACTICE QUESTIONS FOR FINAL EXAM—INTERNATIONAL BUSINESS* (original handout)
 - [Lecture 29 — PPP and Fisher Effect detail](lecture-29-ppp-fisher.md)
 - [Lecture 31 — Final review with extended topic list](lecture-31-final-review.md)
 - All chapters in [`chapters/`](../chapters/) for the underlying theory

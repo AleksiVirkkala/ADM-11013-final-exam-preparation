@@ -10,7 +10,7 @@ Given a foreign subsidiary's balance sheet and income statement in the local cur
 
 1. **Choose the method** (Temporal or Current Rate) based on the functional currency
 2. **Apply the correct exchange rate to each row** to convert to home currency (usually USD)
-3. **Plug retained earnings** to make the balance sheet balance
+3. **Plug the balancing figure** to make the balance sheet balance — **Temporal: plug RE; Current Rate: plug Exchange Adjustment**
 4. **Compute and label** the exchange rate gain/loss — **must write "gain" or "loss" explicitly**
 5. **Decompose** total result into operational result + forex effect
 
@@ -53,8 +53,8 @@ The teacher will tell you the functional currency. You must decide which method 
 | Accounts payable | **Monetary** (fixed amount you owe) |
 | Long-term debt | **Monetary** (debt denominated in fixed amount) |
 | Capital (stockholder equity) | **Non-monetary** — but always uses **historical** rate (when stock was issued) |
-| Retained earnings | **Plug figure** — no exchange rate (forced to balance) |
-| Exchange adjustment | Either **N/A on balance** (temporal) or **plug figure** (current rate) |
+| Retained earnings | ⚠️ **Depends on method:** Under **Temporal** → RE is the **plug figure** (forced to balance; no exchange rate applied). Under **Current Rate** → RE uses **historical (accumulated avg) rate** |
+| Exchange adjustment | Under **Temporal** → not applicable (RE is the plug). Under **Current Rate** → this IS the **plug figure** (forced to balance) |
 
 ---
 
@@ -151,7 +151,9 @@ All items use the **average exchange rate for the year** (or specific period rat
 
 This is the part that gets confusing. Here's the systematic method:
 
-### Method A: Decomposition from retained earnings (works for either method)
+### Method A: Decomposition from retained earnings (cleanest for Temporal; use with care under Current Rate)
+
+> Under the **Current Rate** method, the FX effect flows through the cumulative **Exchange Adjustment** on the balance sheet, not through income-statement RE. The decomposition below still works algebraically, but be aware that the "total result" for Current Rate includes the exchange adjustment change, not just RE change.
 
 **Formula:**
 $$\text{Operational result} + \text{Forex gain/loss} = \text{Total result}$$
@@ -236,7 +238,7 @@ The exam paper will look like the UK Pounds template you've practiced with. Sugg
 
 3. **Don't pick the method yourself.** The teacher specifies the functional currency; you derive the method from it.
 
-4. **Retained earnings is a plug.** Don't try to convert it with an exchange rate. Force it to balance.
+4. **The balancing figure is a plug — don't convert it with an exchange rate.** Under Temporal, RE is the plug. Under Current Rate, Exchange Adjustment is the plug. Force whichever one to balance.
 
 5. **"Other items" with no specified rate** → use the average for the year (default assumption).
 
@@ -294,7 +296,7 @@ If you're earning millions in pesos but the peso is collapsing, your operations 
 
 ## Cross-references
 
-- **Theory paper from teacher**: [Admon. Internacional Fin. Stmt. Consol (ENG)](../../papers/Admon.%20Internacional%20Fin.%20Stmt.%20Consol%20%28ENG%29.md) (original source)
+- **Theory paper from teacher**: *Admon. Internacional Fin. Stmt. Consol (ENG)* (original source)
 - **Lectures 26-28** for worked examples: [L26](../lectures/lecture-26-consolidation-temporal.md), [L27](../lectures/lecture-27-current-rate-method.md), [L28](../lectures/lecture-28-inflationary-country.md)
 - **Worked exercises**:
   - [UK Pounds balance](../exercises/uk-pounds-balance.md) — both methods

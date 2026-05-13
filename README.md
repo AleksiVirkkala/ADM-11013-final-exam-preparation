@@ -74,7 +74,7 @@ These were tested on the partial exam.
 
 ### MEDIUM-PRIORITY topics (mentioned during chapter walkthrough)
 
-- Gold standard history (when ceased: Bretton Woods 1973; gold convertibility ended 1971 by Nixon)
+- Gold standard history (US domestic end: 1933 Roosevelt; dollar-gold link ended 1971 Nixon; Bretton Woods collapsed 1973)
 - Bretton Woods system
 - Dirty float / managed float definition
 - Capital budgeting (project vs parent cash flows, political/economic risk adjustment)

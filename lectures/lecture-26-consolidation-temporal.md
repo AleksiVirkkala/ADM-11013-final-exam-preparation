@@ -1,6 +1,6 @@
 # Lecture 26 — Consolidation of Financial Statements (Introduction & Temporal Method)
 
-> **Sources:** [`notes/ADM-11013 Lecture 26.md`](../../notes/ADM-11013%20Lecture%2026.md), [`transcripts/ADM-11013 Lecture 26.md`](../../transcripts/ADM-11013%20Lecture%2026.md), papers [`grupo-penoles.md`](../../papers/grupo-penoles.md), [`Admon. Internacional Fin. Stmt. Consol (ENG).md`](../../papers/Admon.%20Internacional%20Fin.%20Stmt.%20Consol%20%28ENG%29.md), [`EXERCISE CONVERSION OF FINANCIAL STATEMENTS.md`](../../papers/EXERCISE%20CONVERSION%20OF%20FINANCIAL%20STATEMENTS.md).
+> **Sources:** Lecture 26 notes and transcript, papers: *grupo-penoles*, *Admon. Internacional Fin. Stmt. Consol (ENG)*, *EXERCISE CONVERSION OF FINANCIAL STATEMENTS*.
 
 > **Exam relevance: VERY HIGH.** Foundation for the 21-pt consolidation question on the final.
 

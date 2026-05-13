@@ -1,6 +1,6 @@
 # Torts — Reference Summary
 
-> **Source:** Two videos sent by the teacher to support the exam: Episode 1.1 ("What is Torts? And what Torts is not.") and Episode 1.2 ("An Overview of Tort Law — Intentional Torts, Negligence, and Strict Liability"). Originals: [`papers/Episode 1.1...md`](../../papers/Episode%201.1:%20What%20is%20Torts%3F%20And%20what%20Torts%20is%20not.md) and [`papers/Episode 1.2...md`](../../papers/Episode%201.2:%20An%20Overview%20of%20Tort%20Law%20%E2%80%93%20Intentional%20Torts%2C%20Negligence%2C%20and%20Strict%20Liability.md).
+> **Source:** Two videos sent by the teacher to support the exam: Episode 1.1 ("What is Torts? And what Torts is not.") and Episode 1.2 ("An Overview of Tort Law — Intentional Torts, Negligence, and Strict Liability").
 >
 > **Exam relevance: HIGH for the Common Law / civil liability essay question (Q14 on practice exam: "What are the distinct classes of torts under Common Law? Create a hypothetical situation of tort claim under each one of the distinct types.").**
 
@@ -133,7 +133,7 @@ These actions work like regular intentional tort, negligence, or strict liabilit
 | Type | Example you can use on the exam |
 |---|---|
 | Intentional | "Defendant intentionally hits plaintiff → battery" or "Defendant grabs plaintiff and locks them in a room → false imprisonment" |
-| Negligence | "Defendant texting while driving runs red light, injures pedestrian" or "Defendant lets pet dog run loose, dog bites mailman" |
+| Negligence | "Defendant texting while driving runs red light, injures pedestrian" or "Defendant carelessly backs car into traffic without looking, injuring another driver" (from Episode 1.2) |
 | Strict liability | "Defendant store sells a defective blender that injures the buyer — store liable even though it didn't make or know about the defect" or "Manufacturer of dangerous chemical liable for injuries even with safety precautions" |
 
 ---

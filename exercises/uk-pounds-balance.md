@@ -1,6 +1,6 @@
 # Exercise: UK Pounds Subsidiary of US Multinational
 
-> **Source:** Lectures 26 and 27. Original paper: [`papers/EXERCISE CONVERSION OF FINANCIAL STATEMENTS.md`](../../papers/EXERCISE%20CONVERSION%20OF%20FINANCIAL%20STATEMENTS.md). This is the **canonical fully-worked version** with both methods filled in.
+> **Source:** Lectures 26 and 27. Original paper: *EXERCISE CONVERSION OF FINANCIAL STATEMENTS*. This is the **canonical fully-worked version** with both methods filled in.
 
 **Scenario:** A hypothetical UK subsidiary of a US multinational. We will convert from GBP to USD under BOTH methods.
 

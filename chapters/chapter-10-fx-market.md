@@ -54,6 +54,16 @@ Example: 17.5 pesos per 1 USD → pesos = numerator (Mexico), USD = denominator 
 
 Country with **higher interest rate** → its currency expected to **depreciate**. Why? Because high interest rates reflect expected high inflation, and PPP says high-inflation currencies depreciate.
 
+### Domestic Fisher Effect (don't confuse with IFE)
+
+> **Fisher Effect (domestic):** Nominal interest rate ≈ real interest rate + expected inflation.
+
+If real interest rate is 2% and expected inflation is 5%, the nominal rate should be ~7%. Named after Irving Fisher.
+
+- The **domestic** Fisher Effect links interest rates to inflation *within* a country
+- The **international** Fisher Effect links interest rate *differences between countries* to exchange rate *changes*
+- The IFE builds on the domestic Fisher Effect + PPP
+
 ### Worked example types you'll see on the exam
 
 The teacher will give you **3 of the 4 variables** and ask for the 4th. The 4 variables are: $S_1$, $S_2$, $i_D$, $i_N$.
@@ -151,8 +161,14 @@ The peso is **undervalued by (1 - 0.58) = 42%**.
 - Transport costs and tariffs (violate the law-of-one-price assumption)
 - Government intervention in FX markets
 - Multinational firms with market power can price-discriminate
-- Investor psychology and bandwagon effects (short-term)
+- Investor psychology and **bandwagon effects** (short-term) — see definition below
 - **PPP works much better long-run than short-run**
+
+### Bandwagon effect (book key term — possible MC)
+
+> When traders see a currency depreciating, they assume it will continue, and rush to sell it — which *causes* further depreciation. This can push exchange rates **away from fundamentals** for extended periods. The reverse happens with appreciating currencies.
+
+This is a key argument *against* floating exchange rates: speculation can be destabilizing. It's also why PPP fails in the short run — traders aren't looking at relative prices; they're following the crowd.
 
 ### Inflation, money supply, and PPP
 
@@ -299,3 +315,5 @@ A speculation strategy: **borrow** in a low-interest-rate currency, **invest** i
 - *Difference between translation and transaction exposure?* → Translation = paper/accounting effect on reported statements; Transaction = real cash effect on individual deals
 - *How do you reduce economic exposure?* → Distribute production globally (real hedge), not financial hedging
 - *Hedging definition?* → Protection against FX risk via futures contracts in foreign currencies
+- *What is the bandwagon effect?* → Traders follow the crowd, selling a depreciating currency and buying an appreciating one, pushing rates away from fundamentals
+- *Fisher Effect vs IFE?* → Fisher Effect: nominal rate = real rate + expected inflation (within 1 country). IFE: interest rate *differential* between 2 countries ≈ expected exchange rate change

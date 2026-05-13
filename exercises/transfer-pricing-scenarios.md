@@ -1,6 +1,6 @@
 # Exercise: Transfer Pricing Scenarios
 
-> **Sources:** Lecture 25 used two paper handouts: [`papers/Transfer Pricing Strategy in Multinational Corporations.md`](../../papers/Transfer%20Pricing%20Strategy%20in%20Multinational%20Corporations.md) (2-country scenario) and [`papers/MNC Example of Transfer Price Strategy.md`](../../papers/MNC%20Example%20of%20Transfer%20Price%20Strategy.md) (3-country tax haven). Both consolidated here.
+> **Sources:** Lecture 25 used two paper handouts: *Transfer Pricing Strategy in Multinational Corporations* (2-country scenario) and *MNC Example of Transfer Price Strategy* (3-country tax haven). Both consolidated here.
 
 ---
 
@@ -108,7 +108,7 @@ The four mechanisms are (memorize all four):
 
 All four exploit **tax havens** (countries with very low/zero corporate income tax). See [chapters/chapter-20-finance-mnc.md](../chapters/chapter-20-finance-mnc.md) for fully detailed explanations of each mechanism with the fronting loan diagram.
 
-If asked about **ethics**: be ready to discuss both sides. The strategies are technically legal but morally questionable. Teacher quote: "Companies are not in Mexico, there's any companies. It's not a charitable organization." Companies have a duty to shareholders to minimize taxes legally. But the public and governments view aggressive tax avoidance as unethical, especially when companies operate in countries where they don't pay fair share of taxes.
+If asked about **ethics**: be ready to discuss both sides. The strategies are technically legal but morally questionable. The teacher's point: companies are not charities — they have a fiduciary duty to shareholders to minimize taxes within the law. But the public and governments view aggressive tax avoidance as unethical, especially when companies operate in countries where they don't pay their fair share of taxes.
 
 ---
 

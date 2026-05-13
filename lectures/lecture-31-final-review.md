@@ -1,6 +1,6 @@
 # Lecture 31 — Final Exam Review (Last Class)
 
-> **Sources:** [`notes/ADM-11013 Lecture 31.md`](../../notes/ADM-11013%20Lecture%2031.md), [`transcripts/ADM-11013 Lecture 31.md`](../../transcripts/ADM-11013%20Lecture%2031.md).
+> **Sources:** Lecture 31 notes and transcript.
 
 > **Exam relevance: HIGHEST.** This is the final review session where the teacher walked through every chapter, every important concept, and gave concrete tips. **The single most important lecture for exam prep.**
 

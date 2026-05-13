@@ -1,6 +1,6 @@
 # Lecture 28 — Practice Exercise: Inflationary Country (Exam-Format)
 
-> **Sources:** [`notes/ADM-11013 Lecture 28.md`](../../notes/ADM-11013%20Lecture%2028.md), [`transcripts/ADM-11013 Lecture 28.md`](../../transcripts/ADM-11013%20Lecture%2028.md), paper [`SUBSIDIARY OF US MULTINATIONAL IN AN INFLATIONARY COUNTR.md`](../../papers/SUBSIDIARY%20OF%20US%20MULTINATIONAL%20IN%20AN%20INFLATIONARY%20COUNTR.md).
+> **Sources:** Lecture 28 notes and transcript, paper: *SUBSIDIARY OF US MULTINATIONAL IN AN INFLATIONARY COUNTRY*.
 
 > **Exam relevance: VERY HIGH.** Teacher: *"This is a practice that will be like we will have in the final exam."* This lecture's format is the most likely template for the actual 21-pt exam question.
 

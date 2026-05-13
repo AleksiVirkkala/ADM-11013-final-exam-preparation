@@ -1,6 +1,6 @@
 # Lecture 25 — Transfer Pricing Strategy & Tax Havens
 
-> **Sources:** [`notes/ADM-11013 Lecture 25.md`](../../notes/ADM-11013%20Lecture%2025.md), [`transcripts/ADM-11013 Lecture 25.md`](../../transcripts/ADM-11013%20Lecture%2025.md), papers [`MNC Example of Transfer Price Strategy.md`](../../papers/MNC%20Example%20of%20Transfer%20Price%20Strategy.md) and [`Transfer Pricing Strategy in Multinational Corporations.md`](../../papers/Transfer%20Pricing%20Strategy%20in%20Multinational%20Corporations.md).
+> **Sources:** Lecture 25 notes and transcript, papers: *MNC Example of Transfer Price Strategy* and *Transfer Pricing Strategy in Multinational Corporations*.
 
 > **⚠️ IMPORTANT:** Lecture 25 was held BEFORE the partial exam. Most of the transcript discusses partial-exam content (NAFTA, USMCA, export plan, 5 export documents, Incoterms, letters of credit) that is **NOT** on the final exam. This refined note **only includes the part that IS on the final exam** — transfer pricing and tax havens.
 
@@ -76,12 +76,13 @@ A loan between two related subsidiaries, channeled **through an international ba
 
 **Why the bank in the middle?** To **disguise** the related-party nature of the loan. A direct loan from Bermuda → UK would attract tax authority scrutiny (it might be reclassified as a disguised dividend, losing the tax-deductible interest treatment). The bank provides cover.
 
-**Example flow** (from teacher's whiteboard):
-- Bermuda sub deposits $50M with international bank
-- Bank pays Bermuda 9% interest (Bermuda tax = 0%, so income is kept)
-- Bank lends $50M to UK sub at 9% interest
-- UK sub pays $4.5M interest, deducts it from taxable income at 50% → after-tax cost $2.25M
-- Net effect: Income shifts from high-tax UK to zero-tax Bermuda, and the UK sub's overall taxes go down
+**Example flow** (based on book p.603; teacher's whiteboard used simplified numbers):
+- Tax haven sub (Bermuda) deposits $1M with international bank at **8%** interest
+- Bank lends $1M to operating sub (e.g., UK, 50% tax) at **9%** interest
+- UK sub pays $90,000 interest → tax-deductible at 50% → after-tax cost $45,000
+- Bank keeps $10,000 spread (9% − 8%), pays $80,000 to Bermuda
+- Bermuda receives $80,000 **tax-free**
+- Net effect: $80,000 moved from high-tax UK to zero-tax Bermuda; UK's real cost was only $45,000 → $35,000 of "free" money moved out
 
 > See [chapters/chapter-20-finance-mnc.md](../chapters/chapter-20-finance-mnc.md) section on fronting loans for the full detailed diagram and numerical example.
 

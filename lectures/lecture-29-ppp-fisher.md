@@ -1,6 +1,6 @@
 # Lecture 29 — Purchasing Power Parity & International Fisher Effect
 
-> **Sources:** [`notes/ADM-11013 Lecture 29.md`](../../notes/ADM-11013%20Lecture%2029.md), [`transcripts/ADM-11013 Lecture 29.md`](../../transcripts/ADM-11013%20Lecture%2029.md).
+> **Sources:** Lecture 29 notes and transcript.
 
 > **Exam relevance: VERY HIGH.** Fisher Effect is a guaranteed exam question. PPP / Big Mac Index also explicitly covered.
 

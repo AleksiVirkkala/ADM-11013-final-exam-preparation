@@ -1,6 +1,6 @@
 # Lecture 27 — Current Rate Method & Japanese Yen Exercise
 
-> **Sources:** [`notes/ADM-11013 Lecture 27.md`](../../notes/ADM-11013%20Lecture%2027.md), [`transcripts/ADM-11013 Lecture 27.md`](../../transcripts/ADM-11013%20Lecture%2027.md), papers [`JAPANESE SUBSIDIARY OF US MULTINATIONAL CORP.md`](../../papers/JAPANESE%20SUBSIDIARY%20OF%20US%20MULTINATIONAL%20CORP.md) and [`JAPANESE SUBSIDIARY OF US MULTINATIONAL CORP 2.md`](../../papers/JAPANESE%20SUBSIDIARY%20OF%20US%20MULTINATIONAL%20CORP%202.md).
+> **Sources:** Lecture 27 notes and transcript, papers: *JAPANESE SUBSIDIARY OF US MULTINATIONAL CORP* and *JAPANESE SUBSIDIARY OF US MULTINATIONAL CORP 2*.
 
 > **Exam relevance: VERY HIGH.** Same 21-pt exam question, this lecture covers the second method (current rate) and a second worked example (Japanese Yen).
 

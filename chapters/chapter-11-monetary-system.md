@@ -59,7 +59,12 @@ Example: $1 = 23.22 grains of gold; one ounce of gold = $20.67 (480 grains/ounce
 | **1971** | Nixon ended USD convertibility into gold (the final blow to any gold linkage) |
 | **1973** | Bretton Woods system formally collapsed; floating exchange rates began |
 
-If the exam asks "when did the gold standard cease to exist?" — the practical answer is **1971** (Nixon ended dollar-gold convertibility) but the formal answer is **1973** (Bretton Woods collapse). The teacher mentioned both.
+If the exam asks "when did the gold standard cease to exist?" — the answer depends on what's meant:
+- **US domestic gold standard:** **1933** (Roosevelt suspended convertibility to expand the economy during the Great Depression)
+- **Dollar-gold link ended:** **1971** (Nixon ended USD convertibility into gold)
+- **International fixed-rate system collapsed:** **1973** (Bretton Woods formally ended; floating rates began)
+
+The teacher mentioned all three. If unsure which the question targets, mention all three dates with context — you can't lose points for being thorough.
 
 ---
 
@@ -225,7 +230,7 @@ Businesses can lobby governments on monetary policy. They generally benefit from
 ## Quick-fire exam Q&A self-test
 
 - *What is a dirty float?* → Currency officially floats but central bank intervenes to keep it in an unofficial range
-- *When did the gold standard cease?* → Practically: 1971 (Nixon ended USD-gold convertibility); formally: 1973 (Bretton Woods collapse)
+- *When did the gold standard cease?* → Depends on scope: US domestic = 1933 (Roosevelt); dollar-gold link = 1971 (Nixon); Bretton Woods collapse = 1973. Mention all three.
 - *Difference between IMF and World Bank?* → IMF maintains monetary stability via short-term loans + macro policy oversight; World Bank promotes long-term economic development via loans to poorer countries
 - *Define a currency board.* → Must mention: country commits to converting domestic currency to a reference foreign currency at fixed rate; **reserves must be ≥100% of domestic currency in circulation**
 - *3 arguments for floating exchange rates?* → Monetary policy autonomy, automatic trade balance adjustment, crisis recovery
