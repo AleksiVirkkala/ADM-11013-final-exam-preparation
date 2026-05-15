@@ -40,7 +40,7 @@ The freed-up cash can be redeployed to **higher-yielding (less liquid) investmen
 
 3 subsidiaries (Korea, China, Japan) each hold day-to-day cash + 3 standard deviations of precautionary cash.
 
-- Subsidiary σ values: σ₁ = 1, σ₂ = 2, σ₃ = 3 ($M)
+- Subsidiary σ values: σ₁ = 1, σ₂ = 2, σ₃ = 3 (\$M)
 - Without pooling: precautionary needed = 3·(1 + 2 + 3) = \$18M
 - Sum of all individual cash requirements: ~\$46M
 

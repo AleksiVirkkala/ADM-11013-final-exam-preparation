@@ -79,7 +79,7 @@ Full detail: [[topics/consolidation/exchange-gain-loss|Computing exchange gain/l
 Pooled cash requirement is *less* than the sum because subsidiary cash needs are statistically uncorrelated:
 $$\sigma_{\text{pool}} = \sqrt{\sigma_1^2 + \sigma_2^2 + \cdots + \sigma_n^2}$$
 
-Book example: 3 subs with σ = 1, 2, 3 ($M) → individual sum = \$6M, pooled σ = √14 ≈ \$3.74M. Total cash savings ~\$6.8M.
+Book example: 3 subs with σ = 1, 2, 3 (\$M) → individual sum = \$6M, pooled σ = √14 ≈ \$3.74M. Total cash savings ~\$6.8M.
 
 Full detail: [[topics/mnc-finance/centralized-depositories|Centralized depositories]].
 

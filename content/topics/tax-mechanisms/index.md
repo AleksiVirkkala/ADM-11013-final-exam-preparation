@@ -40,10 +40,10 @@ The teacher said: *"This will be a question of the final exam — what are the 4
 graph LR
     HIGH[High-tax country<br/>Mexico 30%<br/>UK 50%<br/>USA 21-34%] -->|profits shift via 4 mechanisms| HAVEN[Tax haven<br/>Bermuda 0%<br/>Cayman 0%<br/>Ireland 12.5%]
 
-    M1[1. Transfer pricing] -.shift via.-> HAVEN
-    M2[2. Royalties] -.shift via.-> HAVEN
-    M3[3. Dividends] -.shift via.-> HAVEN
-    M4[4. Fronting loans] -.shift via.-> HAVEN
+    M1["1. Transfer pricing"] -.shift via.-> HAVEN
+    M2["2. Royalties"] -.shift via.-> HAVEN
+    M3["3. Dividends"] -.shift via.-> HAVEN
+    M4["4. Fronting loans"] -.shift via.-> HAVEN
 ```
 
 ## Real-world examples
