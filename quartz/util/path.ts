@@ -226,7 +226,42 @@ export interface TransformOptions {
   allSlugs: FullSlug[]
 }
 
+// Resolve `..` and `.` segments in a slash-separated path. Leaves any leading
+// `..` (path escapes above the start) intact.
+function normalizeSlugPath(p: string): string {
+  const segments = p.split("/")
+  const out: string[] = []
+  for (const seg of segments) {
+    if (seg === "" || seg === ".") continue
+    if (seg === "..") {
+      if (out.length > 0 && out[out.length - 1] !== "..") {
+        out.pop()
+      } else {
+        out.push("..")
+      }
+      continue
+    }
+    out.push(seg)
+  }
+  return out.join("/")
+}
+
 export function transformLink(src: FullSlug, target: string, opts: TransformOptions): RelativeURL {
+  // If the target is a path relative to the source (`./` or `../`), resolve it
+  // against the source slug first so the downstream strategies receive a
+  // vault-root path. Without this, relative segments stack on top of
+  // `pathToRoot(src)` and produce too many `..` (Quartz issue: relative
+  // wikilinks with two-or-more `../` resolve outside the site root).
+  if (target.startsWith("./") || target.startsWith("../")) {
+    const [fp, anchor] = splitAnchor(target)
+    const srcDir = src.split("/").slice(0, -1).join("/")
+    const joined = srcDir.length > 0 ? srcDir + "/" + fp : fp
+    const resolved = normalizeSlugPath(joined)
+    // Only adopt the resolved path if it stays inside the vault root.
+    if (!resolved.startsWith("..")) {
+      target = resolved + anchor
+    }
+  }
   let targetSlug = transformInternalLink(target)
 
   if (opts.strategy === "relative") {

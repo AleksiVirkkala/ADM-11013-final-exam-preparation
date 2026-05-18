@@ -125,10 +125,14 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   node.properties["data-slug"] = full
                 }
 
-                // rewrite link internals if prettylinks is on
+                // rewrite link internals if prettylinks is on, but only when
+                // the link text is the raw target (no explicit alias). An
+                // explicit alias may legitimately contain `/` (e.g. "MXN/GBP")
+                // and `path.basename` would silently truncate it.
                 if (
                   opts.prettyLinks &&
                   isInternal &&
+                  !classes.includes("alias") &&
                   node.children.length === 1 &&
                   node.children[0].type === "text" &&
                   !node.children[0].value.startsWith("#")
