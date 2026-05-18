@@ -82,10 +82,10 @@ See [[topics/fx-theories/index|FX Theories cluster]].
 graph LR
     HIGH[High-tax country<br/>e.g., Mexico 30%, UK 50%] -->|profits shift via 4 mechanisms| TAXHAVEN[Tax haven<br/>Bermuda 0%, Ireland 12.5%]
 
-    M1["1. Transfer pricing"] --> HIGH
-    M2["2. Royalties on IP"] --> HIGH
-    M3["3. Dividend remittances"] --> HIGH
-    M4["4. Fronting loans"] --> HIGH
+    M1["(1) Transfer pricing"] --> HIGH
+    M2["(2) Royalties on IP"] --> HIGH
+    M3["(3) Dividend remittances"] --> HIGH
+    M4["(4) Fronting loans"] --> HIGH
 ```
 
 See [[topics/tax-mechanisms/index|Tax Mechanisms cluster]].
